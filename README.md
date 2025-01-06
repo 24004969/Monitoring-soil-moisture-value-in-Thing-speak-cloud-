@@ -2,7 +2,7 @@ Name:AjayJ
 
 Reg no:24004969
 
-#Experiment 5:Monitoring soil moisture sensor value in Thingspeak cloud
+#Monitoring soil moisture sensor value in Thingspeak cloud
 
 
 # AIM:
