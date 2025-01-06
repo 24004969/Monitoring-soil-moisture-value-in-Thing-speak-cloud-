@@ -1,4 +1,8 @@
-# Monitoring-soil-moisture-value-in-Thing-speak-cloud
+Name:AjayJ
+
+Reg no:24004969
+
+# Monitoring soil moisture value in Thingspeak cloud
 # Uploading soil moisture sensor data in Thing Speak cloud
 
 # AIM:
